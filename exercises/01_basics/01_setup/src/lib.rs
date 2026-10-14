@@ -2,4 +2,5 @@
 #[unsafe(no_mangle)]
 extern "C" fn it_works() -> bool {
     // make this compile and then continue with the book to inspect the disassembly of this
+    true
 }
