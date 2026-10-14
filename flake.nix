@@ -28,13 +28,11 @@
             # compilers
             rustToolchain
 
-            # inspecting wasm
+            # inspecting and running wasm
             wasm-tools
+            wasmtime
             binaryen
             wizer
-
-            # wasm components
-            cargo-component
 
             fermyon-spin
 
